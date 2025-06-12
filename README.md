@@ -310,12 +310,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration:
 
-- 📧 Email: [maintainers@bitwisescattersort.dev](mailto:maintainers@bitwisescattersort.dev)
-- 💬 Discord: [Join our community](https://discord.gg/bitwisescattersort)
-- 🐦 Twitter: [@BitwiseSort](https://twitter.com/BitwiseSort)
+- 📧 Email: [irudrakshgupta@gmail.com](mailto:irudrakshgupta@gmail.com)
+- 📸 Instagram: [@irudrakshgupta](https://instagram.com/irudrakshgupta)
 
 ---
 
 <p align="center">
-Made with ❤️ by the Bitwise Scatter Sort Team
+Created by Rudraksh Gupta
 </p> 
