@@ -3,7 +3,7 @@
 > A revolutionary, highly optimized, non-comparison-based integer sorting algorithm that harnesses the power of bitwise operations for blazing-fast performance.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+
 
 ---
 
@@ -15,7 +15,6 @@
 - [Advanced Optimizations](#-advanced-optimizations)
 - [Use Cases & Applications](#-use-cases--applications)
 - [Future Extensions](#-future-extensions)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -290,19 +289,7 @@ bit = (number >> position) & 1
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions! Areas of particular interest:
-
-- 🔧 Performance optimizations
-- 🧪 Test case expansions
-- 📚 Documentation improvements
-- 🔍 Code reviews
-- 🐛 Bug fixes
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
 
 ## 📄 License
 
